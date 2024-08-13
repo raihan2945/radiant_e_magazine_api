@@ -1,8 +1,8 @@
 var express = require("express");
 var router = express.Router();
 
-const base_url = "http://localhost:6055";
-// const base_url = "http://116.68.200.97:6055"
+// const base_url = "http://localhost:6055";
+const base_url = "http://116.68.200.97:6055"
 
 const magazine_list = [
   {
